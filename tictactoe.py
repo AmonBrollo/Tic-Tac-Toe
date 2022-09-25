@@ -1,5 +1,5 @@
 # Author: Amon Brollo
-# Assignment: Tic Tac Toe Game
+# Assignment: Tic-Tac-Toe Game
 
 def main():
     player = next_player("")
