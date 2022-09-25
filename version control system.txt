@@ -1,0 +1,8 @@
+How did you use a version control system to develop the programs?
+
+I used a version control system to keep track of my changes and then going back to see the comments made 
+for each change. This helps to know when I changed something and when something stopped working.
+With a version control system, we can track bugs down to their origin and better troubleshoot what went 
+wrong. For example, I can comment when I add a class, then I add another function to that class. Later, 
+I find out that class is not working properly, so I backtrack all the versions one by one and find out when 
+my program stopped working and fix the issue.
